@@ -1,12 +1,14 @@
 # PyBer_Analysis
 
-# PyBer Project
 
-## Overview of Project
+##PyBer Project
+
+
+### Overview of Project
   
   
   
-  **On this project, we collaborated with PyBer, a python-based ridesharing where one of our first analyses s to create an exploratory analysis on data in some huge CVS file. To aid this process, we will make several types of visualizations o tell a compelling story. We are going to do our work by using python scrips using panda’s libraries and Matplotlib to create a variety of charts that showcase the relationship between the type of city and the number of drivers and riders, as well as the percentage of total fares, riders, and drivers by type of city.**
+  **On this project, we collaborated with PyBer, a python-based ridesharing where one of our first steps is to create an exploratory analysis on data in some huge CVS file. To aid this process, we will make several types of visualizations o tell a compelling story. We are going to do our work by using python scrips using panda’s libraries and Matplotlib to create a variety of charts that showcase the relationship between the type of city and the number of drivers and riders, as well as the percentage of total fares, riders, and drivers by type of city.**
 
 
 
